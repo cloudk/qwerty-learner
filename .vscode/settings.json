@@ -6,7 +6,6 @@
   "css.validate": false,
   "files.eol": "\n",
   "search.exclude": {
-    "**/public/dicts/": true,
     "**/assets/CET4_T.json": true
   },
   "cSpell.words": [
